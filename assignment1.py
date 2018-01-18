@@ -14,7 +14,7 @@ amap = {}
 amap['me'] = "Nicholas Biegel"
 amap['you'] = "Michael Lewis"
 
-#Print out list, map, and others.
+#Print out list, map, and others
 print(alist)
 print(random.choice(alist))
 print(amap)
