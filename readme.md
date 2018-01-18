@@ -1,1 +1,1 @@
-This is a readme file for the repo.
+This repo contains the submission of assignment 1.
